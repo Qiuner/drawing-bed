@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 130" width="680" height="130"><rect width="680" height="130" fill="#fffbf7" rx="8" stroke="#f3e8d0" stroke-width="1.5"/><rect x="0" y="0" width="5" height="130" fill="#e85d04" rx="3"/><text x="20" y="80" fill="#f5e6d3" font-family="Georgia,serif" font-size="90" font-weight="900">“</text><text x="72" y="60" fill="#1e293b"
+  font-family="SimHei,sans-serif" font-size="21" font-weight="700">
+  我已经从「专业程序员」这个身份上退休了。
+</text><text x="72" y="88" fill="#78716c"
+  font-family="SimHei,sans-serif" font-size="13">
+  那个时代，已经结束了。而在转变的另一面，是一种全新的职业。
+</text><text x="656" y="116" text-anchor="end" fill="#a8a29e"
+  font-family="SimHei,sans-serif" font-size="11">
+  —— DHH · Rails World 2026 开幕演讲
+</text></svg>
